@@ -1,0 +1,40 @@
+{
+    "books": [
+        {
+            "id": 2,
+            "name": "Padre rico, padre pobre",
+            "author": "Robert Kiyosaki",
+            "year": 2000
+        },
+        {
+            "id": 3,
+            "name": "La asa del lago",
+            "author": "Robert Kiyosaki",
+            "year": 1999
+        },
+        {
+            "id": 4,
+            "name": "Lo que el viento se llevó",
+            "author": "Robert Kiyosaki",
+            "year": 1985
+        },
+        {
+            "id": 5,
+            "name": "Peque punto azul pálido",
+            "author": "Robert Kiyosaki",
+            "year": 1978
+        },
+        {
+            "id": 6,
+            "name": "COSMOS",
+            "author": "Robert Kiyosaki",
+            "year": 1923
+        },
+        {
+            "id": 7,
+            "name": "El coronel no tiene quien le escriba",
+            "author": "Gabriel García Márquez",
+            "year": 2000
+        }
+    ]
+}
